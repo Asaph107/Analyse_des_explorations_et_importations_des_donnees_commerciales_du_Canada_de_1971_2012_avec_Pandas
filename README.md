@@ -1,0 +1,2 @@
+# Analyse_des_explorations_et_importations_des_donnees_commerciales_du_Canada_de_1971_2012_avec_Pandas
+Ce projet vise à analyser l’évolution des flux commerciaux du Canada sur une période de 40 ans, en se basant sur les données officielles de Statistique Canada. L’objectif est d'explorer les tendances principales des importations et des exportations, regroupées par grandes catégories de marchandises et marchés.
